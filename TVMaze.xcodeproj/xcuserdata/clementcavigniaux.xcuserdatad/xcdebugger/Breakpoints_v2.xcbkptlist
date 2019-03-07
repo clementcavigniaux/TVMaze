@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TVMaze/API/API.swift"
+            timestampString = "573664423.25322"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "topSeries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TVMaze.API.topSeries(completion: (Swift.Array&lt;TVMaze.Serie&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; __C.NSURLSessionDataTask"
+                  moduleName = "TVMaze"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/clementcavigniaux/Downloads/TVMaze/TVMaze/API/API.swift"
+                  timestampString = "572986349.609594"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Swift.Int&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static TVMaze.API.topSeries(completion: (Swift.Array&lt;TVMaze.Serie&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; __C.NSURLSessionDataTask"
+                  moduleName = "TVMaze"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/clementcavigniaux/Downloads/TVMaze/TVMaze/API/API.swift"
+                  timestampString = "572986349.612635"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
